@@ -1,0 +1,4 @@
+Begin
+Display "welcome to java, welcome to computer science "
+Display "programming is fun" 
+End
